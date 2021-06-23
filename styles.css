@@ -1,0 +1,27 @@
+/* .container-fluid {
+    position: relative;
+}
+
+.container:before,
+.container:after {
+    position: absolute;
+    content: "";
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    z-index: 1;
+}
+
+.container:before {
+    top: 0;
+    left: 0;
+}
+
+.container:after {
+    bottom: 0;
+    left: 0;
+}
+
+form {
+    z-index: 2;
+} */
